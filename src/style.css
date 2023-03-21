@@ -1,0 +1,40 @@
+.course{
+  color:gray ;
+  font-weight: normal;
+  font-family:'Courier New', Courier, monospace;
+}
+.title{
+  font-family:'Courier New', Courier, monospace;
+}
+.lorem{
+  font-weight: normal;
+  font-family:'Courier New', Courier, monospace;
+}
+hr{
+  color:coral ;
+  background-color:coral;
+  height:5px ;
+  width:50vw ;
+
+}
+.outer{
+  display:flex ;
+  justify-content: center;
+  flex-wrap:wrap ;
+}
+.inner{
+  width:50vw ;
+}
+img{
+  height:250px ;
+  width:250px ;
+  display: block;
+  margin-left:auto ;
+  margin-right:auto ;
+  margin-top:20px ;
+  max-width: 100% ;
+  height:auto ;
+}
+.heading{
+  text-align: center;
+}
